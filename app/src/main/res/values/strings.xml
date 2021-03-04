@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_department">Department</string>
+    <string name="user_name">User Name</string>
+    <string name="add_user">Add User</string>
+    <string name="delete">delete</string>
+    <string name="click_to_see_user_data">Click to see user data</string>
+    <string name="click_to_add_user">Click to add user</string>
+    <string name="User_records">User Records</string>
+</resources>
